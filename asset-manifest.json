@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IqbalAlamJmi/Restarant_App.git/static/css/main.046a0825.css",
+    "main.js": "/IqbalAlamJmi/Restarant_App.git/static/js/main.44875089.js",
+    "index.html": "/IqbalAlamJmi/Restarant_App.git/index.html",
+    "main.046a0825.css.map": "/IqbalAlamJmi/Restarant_App.git/static/css/main.046a0825.css.map",
+    "main.44875089.js.map": "/IqbalAlamJmi/Restarant_App.git/static/js/main.44875089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.046a0825.css",
+    "static/js/main.44875089.js"
+  ]
+}
